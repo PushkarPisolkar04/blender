@@ -26,4 +26,4 @@ Here’s how the model looks after rendering in Blender:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/PushkarPisolkar04/your-repo-name.git
+   git clone https://github.com/PushkarPisolkar04/blender.git
